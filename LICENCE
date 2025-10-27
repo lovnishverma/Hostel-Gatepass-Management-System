@@ -1,0 +1,259 @@
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+
+Copyright © 2024-2025 Lovnish Verma. All Rights Reserved.
+
+================================================================================
+
+HOSTEL GATEPASS MANAGEMENT SYSTEM
+Version 2.0
+
+================================================================================
+
+NOTICE: This software and associated documentation files (the "Software") are
+the proprietary and confidential property of Lovnish Verma and Aman Kumar
+(the "Authors"). This Software is protected by copyright laws and international
+copyright treaties, as well as other intellectual property laws and treaties.
+
+================================================================================
+
+TERMS AND CONDITIONS
+
+1. OWNERSHIP AND COPYRIGHT
+
+   1.1 The Software, including all source code, object code, documentation,
+       designs, algorithms, know-how, and all intellectual property rights
+       therein, is and shall remain the exclusive property of the Authors.
+
+   1.2 All rights not expressly granted herein are reserved by the Authors.
+
+   1.3 The Authors retain all right, title, and interest in and to the
+       Software, including all copyrights, patents, trade secrets, trademarks,
+       and other intellectual property rights.
+
+2. RESTRICTIONS ON USE
+
+   2.1 PROHIBITED ACTIONS - Without explicit written permission from the
+       Authors, you may NOT:
+
+       a) Use, copy, modify, merge, or distribute the Software
+       b) Reverse engineer, decompile, or disassemble the Software
+       c) Remove or alter any copyright, trademark, or proprietary notices
+       d) Create derivative works based on the Software
+       e) Sublicense, sell, rent, lease, or transfer the Software
+       f) Use the Software for commercial purposes
+       g) Publicly display or perform the Software
+       h) Access or use the Software's source code
+       i) Share, publish, or make available the Software to third parties
+       j) Use the Software to create competing products or services
+
+   2.2 The Software is provided for DEMONSTRATION and PORTFOLIO purposes only.
+
+3. CONFIDENTIALITY
+
+   3.1 The Software contains trade secrets and proprietary information of the
+       Authors. You acknowledge that the Software is confidential and agree
+       to maintain its confidentiality.
+
+   3.2 You shall not disclose, publish, or disseminate any part of the
+       Software to any third party without prior written consent from the
+       Authors.
+
+4. NO SOURCE CODE ACCESS
+
+   4.1 The source code of this Software is NOT publicly available and is NOT
+       included in any public repository or distribution.
+
+   4.2 Access to source code is granted ONLY through explicit commercial
+       licensing agreements with the Authors.
+
+5. SCREENSHOTS AND DOCUMENTATION
+
+   5.1 Screenshots and documentation provided in this repository are for
+       DEMONSTRATION and PORTFOLIO purposes only.
+
+   5.2 These materials do NOT grant any rights to use, implement, or recreate
+       the Software.
+
+6. COMMERCIAL LICENSING
+
+   6.1 Commercial use of the Software requires a separate written licensing
+       agreement with the Authors.
+
+   6.2 For commercial licensing inquiries, contact:
+       Email: princelv84@gmail.com
+
+   6.3 Commercial licenses may include:
+       - Custom implementation rights
+       - Source code access
+       - Modification rights
+       - Deployment rights
+       - Support and maintenance
+
+7. ACADEMIC USE
+
+   7.1 This Software was developed as an academic project at NIELIT
+       (National Institute of Electronics & Information Technology),
+       Chandigarh, India.
+
+   7.2 Academic institutions wishing to use this Software for educational
+       purposes must obtain written permission from the Authors.
+
+8. WARRANTY DISCLAIMER
+
+   8.1 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
+       OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+       MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+   8.2 THE AUTHORS MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY,
+       RELIABILITY, COMPLETENESS, OR TIMELINESS OF THE SOFTWARE.
+
+   8.3 USE OF THE SOFTWARE IS AT YOUR OWN RISK.
+
+9. LIMITATION OF LIABILITY
+
+   9.1 IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+       OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+       ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+       OR OTHER DEALINGS IN THE SOFTWARE.
+
+   9.2 THIS INCLUDES, WITHOUT LIMITATION, ANY DIRECT, INDIRECT, INCIDENTAL,
+       SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, EVEN IF THE AUTHORS HAVE
+       BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+   9.3 MAXIMUM LIABILITY: In jurisdictions that do not allow the exclusion of
+       certain warranties or limitations of liability, the Authors' liability
+       shall be limited to the maximum extent permitted by law.
+
+10. INDEMNIFICATION
+
+    10.1 You agree to indemnify, defend, and hold harmless the Authors from
+         any claims, damages, losses, liabilities, and expenses (including
+         legal fees) arising from your unauthorized use of the Software.
+
+11. TERMINATION
+
+    11.1 This license is effective until terminated.
+
+    11.2 The Authors reserve the right to terminate this license at any time
+         if you fail to comply with any of its terms.
+
+    11.3 Upon termination, you must cease all use of the Software and destroy
+         all copies in your possession.
+
+12. INTELLECTUAL PROPERTY INFRINGEMENT
+
+    12.1 Any unauthorized use, copying, distribution, or modification of the
+         Software constitutes intellectual property infringement and may result
+         in:
+         - Civil liability
+         - Criminal prosecution
+         - Injunctive relief
+         - Damages and legal fees
+
+    12.2 The Authors will vigorously enforce their intellectual property rights.
+
+13. THIRD-PARTY COMPONENTS
+
+    13.1 The Software may include third-party libraries and components that are
+         subject to their own license terms.
+
+    13.2 Such components include but are not limited to:
+         - Bootstrap (MIT License)
+         - Font Awesome (Font Awesome Free License)
+         - Chart.js (MIT License)
+         - html5-qrcode (Apache 2.0 License)
+
+    13.3 Use of these third-party components is governed by their respective
+         licenses and does NOT grant any rights to the proprietary portions
+         of this Software.
+
+14. GOVERNING LAW
+
+    14.1 This Agreement shall be governed by and construed in accordance with
+         the laws of India, without regard to its conflict of law provisions.
+
+    14.2 Any disputes arising under this Agreement shall be subject to the
+         exclusive jurisdiction of the courts located in Chandigarh, India.
+
+15. ENTIRE AGREEMENT
+
+    15.1 This Agreement constitutes the entire agreement between you and the
+         Authors regarding the Software and supersedes all prior agreements
+         and understandings.
+
+    15.2 No amendment or modification of this Agreement shall be valid unless
+         made in writing and signed by the Authors.
+
+16. SEVERABILITY
+
+    16.1 If any provision of this Agreement is found to be unenforceable or
+         invalid, that provision shall be limited or eliminated to the minimum
+         extent necessary so that this Agreement shall otherwise remain in
+         full force and effect.
+
+17. WAIVER
+
+    17.1 The failure of the Authors to enforce any right or provision of this
+         Agreement shall not constitute a waiver of such right or provision.
+
+18. CONTACT INFORMATION
+
+    For permissions, licensing inquiries, or questions about this Agreement:
+
+    Primary Contact:
+    Lovnish Verma
+    Email: princelv84@gmail.com
+    LinkedIn: linkedin.com/in/lovnishverma
+    Location: Chandigarh, India
+
+
+19. ACKNOWLEDGMENT
+
+    BY ACCESSING, VIEWING, OR USING THIS SOFTWARE OR ITS DOCUMENTATION, YOU
+    ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE
+    TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+    IF YOU DO NOT AGREE TO THESE TERMS, YOU MUST NOT ACCESS, VIEW, OR USE
+    THE SOFTWARE OR ITS DOCUMENTATION.
+
+================================================================================
+
+SPECIAL NOTICE FOR RECRUITERS AND POTENTIAL CLIENTS:
+
+If you are viewing this as part of a portfolio or demonstration:
+- Screenshots and documentation are provided for evaluation purposes only
+- The Software itself is NOT available for use without a licensing agreement
+- Contact the Authors for commercial licensing, demo access, or implementation
+
+For demonstration requests: princelv84@gmail.com
+
+================================================================================
+
+TRADEMARK NOTICE:
+
+"Hostel Gatepass Management System" and associated logos and designs are
+trademarks of Lovnish Verma.
+
+================================================================================
+
+DATE OF ISSUE: October 2025
+VERSION: 1.0
+EFFECTIVE DATE: October 28, 2025
+
+================================================================================
+
+RESERVED RIGHTS NOTICE:
+
+All rights reserved. No part of this Software may be reproduced, distributed,
+or transmitted in any form or by any means, including photocopying, recording,
+or other electronic or mechanical methods, without the prior written permission
+of the Authors, except in the case of brief quotations embodied in critical
+reviews and certain other noncommercial uses permitted by copyright law.
+
+================================================================================
+
+END OF LICENSE AGREEMENT
+
+For licensing inquiries: princelv84@gmail.com
+
+© 2025-2026 Lovnish Verma & Aman Kumar. All Rights Reserved.
