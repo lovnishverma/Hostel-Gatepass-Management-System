@@ -593,9 +593,9 @@ Interested in implementing this system for your institution?
 ## 🔗 Quick Links
 
 - 🎥 [Watch Demo Video](https://www.youtube.com/watch?v=Skr2YWeDOFk)
-- 📧 [Contact Developer](mailto:technicalboyprince@gmail.com)
+- 📧 [Contact Developer](mailto:princelv84@gmail.com)
 - 💼 [LinkedIn Profile](https://linkedin.com/in/lovnishverma)
-- 🌐 [Portfolio Website](https://yourportfolio.com)
+- 🌐 [Portfolio Website](https://lovnishverma.github.io/)
 
 ---
 
