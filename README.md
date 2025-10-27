@@ -448,7 +448,7 @@ Professional PDF-ready gatepass with QR code
 
 **Lead Developer & Architect**
 - 👨‍💻 **Lovnish Verma**
-- 📧 Email: technicalboyprince@gmail.com
+- 📧 Email: princelv84@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/lovnishverma](https://linkedin.com/in/lovnishverma)
 - 🐙 GitHub: [github.com/LovnishVerma](https://github.com/LovnishVerma)
 
@@ -467,7 +467,7 @@ Professional PDF-ready gatepass with QR code
 **Location:** Chandigarh, India  
 **Department:** Computer Science & Engineering  
 **Project Type:** PHP Mysql Learning Project
-**Year:** 2024-2025  
+**Year:** 2025-2026  
 **Supervisor:** [Dr. Sarwan Singh]
 
 ---
@@ -618,7 +618,7 @@ Interested in implementing this system for your institution?
 
 ---
 
-**Last Updated:** December 2024  
+**Last Updated:** October 2025  
 **Version:** 2.0  
 **Status:** ✅ Production Ready & Deployed
 
