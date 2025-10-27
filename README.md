@@ -475,7 +475,7 @@ Professional PDF-ready gatepass with QR code
 ## 📄 License & Usage
 
 **License:** Proprietary & Confidential  
-**Copyright:** © 2024-2025 Lovnish Verma & Aman Kumar
+**Copyright:** © 2025-2026 Lovnish Verma
 
 **⚠️ Important Notice:**
 - Source code is **not publicly available**
