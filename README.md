@@ -141,7 +141,7 @@ The **Hostel Gatepass Management System** is a modern, paperless solution design
 | Warden | warden1@demo.com | password |
 | Coordinator | coordinator1@demo.com | password |
 | Security | security@demo.com | password |
-| Student | technicalboyprince@demo.com | password |
+| Student | princelv84@demo.com | password |
 
 **⚠️ Change these immediately in production!**
 
@@ -563,7 +563,7 @@ Interested in implementing this system for your institution?
 - ✅ **Migration** - Data import from existing systems
 - ✅ **Customization** - Feature additions as needed
 
-**Contact:** technicalboyprince@gmail.com
+**Contact:** princelv84@gmail.com
 
 ---
 
@@ -633,7 +633,7 @@ Interested in implementing this system for your institution?
 If you're a recruiter or potential client interested in this project:
 
 1. **📺 Watch the Demo:** [YouTube Video](https://www.youtube.com/watch?v=Skr2YWeDOFk)
-2. **📧 Email Us:** technicalboyprince@gmail.com
+2. **📧 Email Us:** princelv84@gmail.com
 3. **💼 Connect:** [LinkedIn](https://linkedin.com/in/lovnishverma)
 4. **📄 Request Docs:** Email for detailed documentation
 
