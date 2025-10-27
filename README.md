@@ -422,14 +422,6 @@ Professional PDF-ready gatepass with QR code
 
 ---
 
-## 🏆 Awards & Recognition
-
-- 🥇 **Best Student Project 2024** - NIELIT Chandigarh
-- 🎖️ **Innovation Award** - Campus Tech Fest
-- ⭐ **Faculty Appreciation** - Outstanding Implementation
-
----
-
 ## 🚀 Future Enhancements
 
 ### Version 2.1 (Planned)
@@ -460,13 +452,9 @@ Professional PDF-ready gatepass with QR code
 - 💼 LinkedIn: [linkedin.com/in/lovnishverma](https://linkedin.com/in/lovnishverma)
 - 🐙 GitHub: [github.com/LovnishVerma](https://github.com/LovnishVerma)
 
-**Co-Developer & QA Lead**
-- 👨‍💻 **Aman Kumar**
-- 📧 Email: princelovnish@gmail.com
-- 💡 Role: Quality Assurance & Testing
 
 ### Get In Touch
-- 📧 **General Inquiries:** support@gatepass.demo
+- 📧 **General Inquiries:** princelv84@gmail.com
 - 🐛 **Bug Reports:** Create an issue with detailed description
 - 💡 **Feature Requests:** Email with your suggestion
 - 📺 **Demo Request:** Contact via email
@@ -478,9 +466,9 @@ Professional PDF-ready gatepass with QR code
 **Institution:** NIELIT (National Institute of Electronics & Information Technology)  
 **Location:** Chandigarh, India  
 **Department:** Computer Science & Engineering  
-**Project Type:** Final Year Capstone Project  
+**Project Type:** PHP Mysql Learning Project
 **Year:** 2024-2025  
-**Supervisor:** [Supervisor Name]
+**Supervisor:** [Dr. Sarwan Singh]
 
 ---
 
