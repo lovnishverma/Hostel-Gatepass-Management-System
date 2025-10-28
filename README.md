@@ -141,7 +141,7 @@ The **Hostel Gatepass Management System** is a modern, paperless solution design
 | Warden | warden1@demo.com | password |
 | Coordinator | coordinator1@demo.com | password |
 | Security | security@demo.com | password |
-| Student | princelv84@demo.com | password |
+| Student | lovnish@demo.com | password |
 
 **⚠️ Change these immediately in production!**
 
